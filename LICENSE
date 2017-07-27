@@ -1,6 +1,13 @@
-The MIT License (MIT)
+This project was forked from 'https://github.com/sylvaindumont/docker-node-karma-protractor-chrome'.
 
-Copyright (c) 2016 Sylvain Dumont
+Copyright for portions of this project are held by Sylvain Dumont, 2016.
+
+All other copyright for this project are held by HQLabs GmbH, 2017.
+
+
+MIT License
+
+Copyright (c) 2017 HQLabs GmbH (hellohq.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
